@@ -1,7 +1,7 @@
 # 🐶 The DogGram
 
-DogGram is a simple frontend UI project built using **HTML, CSS, and Bootstrap**.  
-It mimics a social media feed but is focused on dogs 🐕✨.
+DogGram is a **frontend UI project** built using **HTML, CSS, and Bootstrap**.  
+It mimics the look and feel of a **social media feed**, but is designed entirely around **dogs** 🐾.
 
 ---
 
@@ -13,8 +13,16 @@ It mimics a social media feed but is focused on dogs 🐕✨.
 
 ---
 
-## ✨ Future Improvements
+## 🚀 Future Scope  
+DogGram is currently a **static UI prototype** (no backend or database).  
+In the future, it can be expanded into a real dog-focused social platform with:  
+- 🔐 User authentication & dog-owner profiles  
+- 🐕 Posting and sharing dog photos/videos  
+- 💬 Real-time likes and comments  
+- 📨 Messaging between dog owners  
+- 🌍 Explore page for trending dog content  
+- 🏆 Badges/rewards for most active dog profiles  
 
-- Add interactivity with **JavaScript**  
-- Implement **backend** for posts and users  
-- Enhance styling with **animations**
+---
+
+👉 Right now, it’s just for fun and design exploration, but it demonstrates how a **dog-only social media app** could look.
